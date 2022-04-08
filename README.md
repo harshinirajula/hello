@@ -1,2 +1,2 @@
 # hello
-hii is 
+printf("hello world")
